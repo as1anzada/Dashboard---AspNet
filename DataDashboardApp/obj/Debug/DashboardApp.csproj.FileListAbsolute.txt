@@ -1,0 +1,20 @@
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\bin\Debug\DashboardApp.exe.config
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\bin\Debug\DashboardApp.exe
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\bin\Debug\DashboardApp.pdb
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.csproj.AssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.csproj.GenerateResource.cache
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.csproj.CoreCompileInputs.cache
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.exe
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.pdb
+D:\RJ Code Advance\Source Code C#\2022\DataDashboardApp\DataDashboardApp\obj\Debug\DashboardApp.Form1.resources
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.csproj.AssemblyReference.cache
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.Form1.resources
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.Properties.Resources.resources
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.csproj.GenerateResource.cache
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.exe
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\obj\Debug\DashboardApp.pdb
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\bin\Debug\DashboardApp.exe.config
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\bin\Debug\DashboardApp.exe
+C:\Users\aslan\Desktop\Data-Dashboard-CSharp-SQL-WinForms\DataDashboardApp\bin\Debug\DashboardApp.pdb
